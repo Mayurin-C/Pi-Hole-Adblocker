@@ -37,6 +37,30 @@ Welcome to my Pi-hole project! This repository documents how I set up, configure
 - ✅ CNAME deep inspection enabled
 - ✅ Tailscale access from phone outside LAN
 
+---
+
+📸 Screenshots
+
+Here’s a visual look at my Pi-hole ad blocker setup:
+
+Pi-Hole Dashboard Overview
+![Dashboard](./1.png)
+
+Query Log
+![Query Log](./2.png)
+
+Blocklists
+![Blocked Domains](./3.png)
+
+DNS Servers
+![Top Advertisers](./4.png)
+
+Uptime Kuma Integration
+![Query Types](./5.png)
+
+SSH into Rasberry Pi
+![Network Overview](./6.png)
+
 🧠 Tips & Notes
 -Use DHCP reservation to keep Pi's IP static.
 -Make sure your router’s DNS is set to Pi-hole's IP.
