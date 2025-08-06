@@ -5,10 +5,10 @@ Welcome to my Pi-hole project! This repository documents how I set up, configure
 ---
 
 🔧 Project Overview
-- Purpose**: Block ads, trackers, and malicious domains at the DNS level across my entire home network.
-- Platform**: Raspberry Pi
+- Purpose: Block ads, trackers, and malicious domains at the DNS level across my entire home network.
+- Platform: Raspberry Pi
 - DNS Resolver**: Pi-hole
-- Additional Tools**:
+- Additional Tools:
   - ✅ Uptime Kuma (monitor Pi-hole health)
   - ✅ Cloudflare DNS for upstream resolution
   - ✅ Tailscale (remote access to dashboard)
